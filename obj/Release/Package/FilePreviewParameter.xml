@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Microsoft-ApiApp8a2efd313a8f4330874481902bff0d57" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Michael\\Documents\\Visual\ Studio\ 2015\\Projects\\SlackBotWebApi\\SlackBotWebApi\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Michael\\Documents\\Visual\ Studio\ 2015\\Projects\\SlackBotWebApi\\SlackBotWebApi\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
